@@ -1,4 +1,4 @@
-### Hi there 👋
+### Very Nice to Meet you 🍄
 
 <!--
 **chen-zichen/chen-zichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="60px" align="center" src="https://user-images.githubusercontent.com/5679180/86811374-afe2de00-c032-11ea-96a4-0bb37211087c.gif" />
